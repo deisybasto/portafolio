@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "portafolioDeisy"
+    }
+  },
+  "defaultProject": "portafolioDeisy",
+  "cli": {
+    "analytics": "60f32cbd-420d-4318-b75c-d91718a061fe"
+  }
 }
